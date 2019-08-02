@@ -1,3 +1,18 @@
+## NOTES
+This order guide is partially-functional.
+
+Functionality:
+- increase/decrease quantity
+- open Edit Guide modal
+- increase/decrease default volume
+- close Edit Guide modal
+
+Missing Functionality:
+- Submit order
+- Add product
+- Delete Product
+- Submit modal
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
