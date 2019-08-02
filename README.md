@@ -15,5 +15,5 @@ Missing Functionality:
 
 ## How to run locally
 
-1. in the `src` directory, run `node server.js` in a separate terminal tab
-2. `npm start`: opens up `localhost:3000` 
+1. in the `src` directory, run `node server.js` 
+2. run `npm start` in a separate terminal tab which opens up `localhost:3000`
